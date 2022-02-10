@@ -37,7 +37,7 @@ def infix_to_postfix(infix):
  
 def main():
     print('Menu: \n ---------------------------------',
-          ' infix -> input exp: 1^2+x/2*(b-x) ... |(dont use space).',
+          ' infix -> input exp: 1^2+x/2*(b-x) ... |(use , ).',
           ' -exit -> exit programme. \n ---------------------------------',
           
           sep='\n *')
